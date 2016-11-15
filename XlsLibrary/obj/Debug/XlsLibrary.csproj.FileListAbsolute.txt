@@ -1,0 +1,6 @@
+E:\projects\grigiskes\XlsLibrary\XlsLibrary\bin\Debug\XlsLibrary.dll
+E:\projects\grigiskes\XlsLibrary\XlsLibrary\bin\Debug\XlsLibrary.pdb
+E:\projects\grigiskes\XlsLibrary\XlsLibrary\obj\Debug\XlsLibrary.csprojResolveAssemblyReference.cache
+E:\projects\grigiskes\XlsLibrary\XlsLibrary\obj\Debug\XlsLibrary.csproj.ResolveComReference.cache
+E:\projects\grigiskes\XlsLibrary\XlsLibrary\obj\Debug\XlsLibrary.dll
+E:\projects\grigiskes\XlsLibrary\XlsLibrary\obj\Debug\XlsLibrary.pdb
