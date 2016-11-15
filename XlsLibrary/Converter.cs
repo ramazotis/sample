@@ -8,6 +8,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 
 namespace XlsLibrary
 {
+    //com component
     [ComVisible(true)]
     public interface IConverterInterface
     {
